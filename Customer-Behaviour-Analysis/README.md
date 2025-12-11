@@ -5,7 +5,6 @@ It focuses on data cleaning, customer segmentation, purchase behaviour, and reve
 
 ---
 
----
 
 ## **Dataset**
 
