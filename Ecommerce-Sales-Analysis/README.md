@@ -1,4 +1,4 @@
-# **Customer Behaviour Analysis — Python, SQL and Tableau Project**
+# **E-commerce Sales Dataset — Excel and Tableau Project**
 
 This project analyses an e-commerce sales dataset using Excel and Tableau. 
 It focuses on identifying revenue trends, regional performance, and customer demographic patterns to drive business profitability and operational efficiency.
